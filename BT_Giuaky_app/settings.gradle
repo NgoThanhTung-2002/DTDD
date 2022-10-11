@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "BT_Giuaky_app"
+rootProject.name = "BTGK"
 include ':app'
